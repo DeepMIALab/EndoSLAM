@@ -143,20 +143,25 @@ In this work, we propose and evaluate a hybrid 3D reconstruction technique. To e
  
 ## Reference
 
-If you find our work useful in your research or if you use parts of this code please consider citing our paper:
+If you find our work useful in your research or if you use parts of this code please consider citing our paper and our dataset:
 
 ```
-@misc{ozyoruk2020endoslam,
-      title={EndoSLAM Dataset and An Unsupervised Monocular Visual Odometry and Depth Estimation Approach for Endoscopic Videos: Endo-SfMLearner}, 
-      author={Kutsev Bengisu Ozyoruk and Guliz Irem Gokceler and Gulfize Coskun and Kagan Incetan and Yasin Almalioglu and Faisal Mahmood and Eva Curto and Luis Perdigoto and Marina Oliveira and Hasan Sahin and Helder Araujo and Henrique Alexandrino and Nicholas J. Durr and Hunter B. Gilbert and Mehmet Turan},
-      year={2020},
-      eprint={2006.16670},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{OZYORUK2021102058,
+title = {EndoSLAM dataset and an unsupervised monocular visual odometry and depth estimation approach for endoscopic videos},
+journal = {Medical Image Analysis},
+volume = {71},
+pages = {102058},
+year = {2021},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2021.102058},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841521001043},
+author = {Kutsev Bengisu Ozyoruk and Guliz Irem Gokceler and Taylor L. Bobrow and Gulfize Coskun and Kagan Incetan and Yasin Almalioglu and Faisal Mahmood and Eva Curto and Luis Perdigoto and Marina Oliveira and Hasan Sahin and Helder Araujo and Henrique Alexandrino and Nicholas J. Durr and Hunter B. Gilbert and Mehmet Turan},
 }
 ```
 
-
+```
+Ozyoruk, Kutsev Bengisu; Gokceler, Guliz Irem ; Bobrow, Taylor L.; Coskun, Gulfize; Incetan, Kagan; Almalioglu, Yasin; Mahmood, Faisal; Curto, Eva; Perdigoto, Luis; Oliveira, Marina; Sahin, Hasan; Araujo, Helder; Alexandrino, Henrique; Durr, Nicholas J.; Gilbert, Hunter B.; Turan, Mehmet (2021), “EndoSLAM Dataset”, Mendeley Data, V1, doi: 10.17632/cd2rtzm23r.1
+```
 
 <!-- 
 
