@@ -53,6 +53,14 @@ The ex-vivo and synthetic parts of dataset consist of a total of 42,700 and 21,8
 </p>
 
 
+## Reference
+
+If you find our dataset useful in your research or if you use parts of this data please consider citing our dataset:
+
+```
+Ozyoruk, Kutsev Bengisu; Gokceler, Guliz Irem ; Bobrow, Taylor L.; Coskun, Gulfize; Incetan, Kagan; Almalioglu, Yasin; Mahmood, Faisal; Curto, Eva; Perdigoto, Luis; Oliveira, Marina; Sahin, Hasan; Araujo, Helder; Alexandrino, Henrique; Durr, Nicholas J.; Gilbert, Hunter B.; Turan, Mehmet (2021), “EndoSLAM Dataset”, Mendeley Data, V1, doi: 10.17632/cd2rtzm23r.1
+```
+
 
 ## Endo-SfMLearner Overview
 
@@ -157,12 +165,6 @@ doi = {https://doi.org/10.1016/j.media.2021.102058},
 url = {https://www.sciencedirect.com/science/article/pii/S1361841521001043},
 author = {Kutsev Bengisu Ozyoruk and Guliz Irem Gokceler and Taylor L. Bobrow and Gulfize Coskun and Kagan Incetan and Yasin Almalioglu and Faisal Mahmood and Eva Curto and Luis Perdigoto and Marina Oliveira and Hasan Sahin and Helder Araujo and Henrique Alexandrino and Nicholas J. Durr and Hunter B. Gilbert and Mehmet Turan},
 }
-```
-
-and our dataset:
-
-```
-Ozyoruk, Kutsev Bengisu; Gokceler, Guliz Irem ; Bobrow, Taylor L.; Coskun, Gulfize; Incetan, Kagan; Almalioglu, Yasin; Mahmood, Faisal; Curto, Eva; Perdigoto, Luis; Oliveira, Marina; Sahin, Hasan; Araujo, Helder; Alexandrino, Henrique; Durr, Nicholas J.; Gilbert, Hunter B.; Turan, Mehmet (2021), “EndoSLAM Dataset”, Mendeley Data, V1, doi: 10.17632/cd2rtzm23r.1
 ```
 
 <!-- 
