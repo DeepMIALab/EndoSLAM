@@ -1,4 +1,5 @@
 # EndoSLAM Dataset and an Unsupervised Monocular Visual Odometry and Depth Estimation Approach for Endoscopic Videos
+### [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001043) | [Dataset](https://data.mendeley.com/datasets/cd2rtzm23r/1)  | [WebSite](https://deepmia.boun.edu.tr/) 
 <p align="center">
 <img align="center"  src='imgs/EndoSLAM_Logo.jpeg' width=456/> 
 </p>
